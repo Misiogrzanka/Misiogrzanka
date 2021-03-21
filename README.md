@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Javascript projects (mainly React.JS)
 - 🌱 I’m currently learning TypeScript, Machine Learning, Advanced React.JS concepts.
 - 👯 I’m looking to collaborate on ...
